@@ -49,7 +49,11 @@ export default function RandomRedirect() {
 'https://mantyke.icu/',
 'https://xyzxy.me/',
 'https://www.juroku.net/',
-'https://pro.gleeze.com/'
+'https://pro.gleeze.com/',
+'https://dilutepillow.github.io/',
+'https://nuaa.tech/',
+'https://blog.buzzchat.top/',
+'https://cuixiping.com/'
     ];
     const randomUrl = urls[Math.floor(Math.random() * urls.length)];
     window.location.href = randomUrl;

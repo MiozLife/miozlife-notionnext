@@ -10,6 +10,7 @@ export default function RandomRedirect() {
 'https://zhongxiaojie.cn/',
 'https://blog.tsoo.net/',
 'https://zzzhome.cc/',
+'https://koxiuqiu.cn/',
 'https://blog.bxaw.name/',
 'https://www.jeffer.xyz/',
 'https://thirdshire.com/',
